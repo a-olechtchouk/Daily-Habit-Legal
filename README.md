@@ -1,4 +1,4 @@
-# Daily Habit Privacy Policy
+# Habit Progress Privacy Policy
 
 We do not collect any personal information, firmly believing that such data belongs solely to you. We do not store or transmit personal details, and we do not incorporate any advertising or analytics software that communicates with third parties.
 
